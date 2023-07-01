@@ -1,0 +1,27 @@
+
+This directory is intended for PlatformIO Test Runner and project tests.
+
+Unit Testing is a software testing method by which individual units of
+source code, sets of one or more MCU program modules together with associated
+control data, usage procedures, and operating procedures, are tested to
+determine whether they are fit for use. Unit testing finds problems early
+in the development cycle.
+
+More information about PlatformIO Unit Testing:
+- https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+
+
+/* Definicion de la implementacion software del hardware para el controladorMx */
+
+--> Controlador ESP32
+    # Caracteristicas del ESP32
+
+--> Definicion 1 Entradas (Interfaces, sensores resistivos, señales v (0-5; 0-10; 0-24), señales a 
+    0-20; 4-20  )
+
+--> Definicion 2 Salidas (Interfaces, Señal PWM, Señal Analogica, Seañl v (0-5; 0-10; 0-24), señales a 
+    0-20; 4-20  )
+
+--> Definicion 3 Display (teclado matricial y lcd 4200 [i2c]) / Panel (ws2812b / control infrarojo)
+
+
