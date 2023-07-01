@@ -1,13 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PSenej-S)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11289764)
-## Integrantes
+# Integrantes
 1 Carolina Nis
 2 Fernando Vexenat
 3 Alejando Leyton
 4 William Leyton
 5 Emilio Moyano
 6 Maximo Santillan
-# Proyecto-2
+## Proyecto-2
 Proyecto del periodo 2: Controlador Universal, para la materia control y servicios  
 
 ## Definición del proyecto Sprint Planning 15/05/2023
